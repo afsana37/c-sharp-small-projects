@@ -1,0 +1,14 @@
+H:\C sharp\Madlibs\Madlib\bin\Debug\net6.0\Madlib.exe
+H:\C sharp\Madlibs\Madlib\bin\Debug\net6.0\Madlib.deps.json
+H:\C sharp\Madlibs\Madlib\bin\Debug\net6.0\Madlib.runtimeconfig.json
+H:\C sharp\Madlibs\Madlib\bin\Debug\net6.0\Madlib.dll
+H:\C sharp\Madlibs\Madlib\bin\Debug\net6.0\ref\Madlib.dll
+H:\C sharp\Madlibs\Madlib\bin\Debug\net6.0\Madlib.pdb
+H:\C sharp\Madlibs\Madlib\obj\Debug\net6.0\Madlib.GeneratedMSBuildEditorConfig.editorconfig
+H:\C sharp\Madlibs\Madlib\obj\Debug\net6.0\Madlib.AssemblyInfoInputs.cache
+H:\C sharp\Madlibs\Madlib\obj\Debug\net6.0\Madlib.AssemblyInfo.cs
+H:\C sharp\Madlibs\Madlib\obj\Debug\net6.0\Madlib.csproj.CoreCompileInputs.cache
+H:\C sharp\Madlibs\Madlib\obj\Debug\net6.0\Madlib.dll
+H:\C sharp\Madlibs\Madlib\obj\Debug\net6.0\ref\Madlib.dll
+H:\C sharp\Madlibs\Madlib\obj\Debug\net6.0\Madlib.pdb
+H:\C sharp\Madlibs\Madlib\obj\Debug\net6.0\Madlib.genruntimeconfig.cache
